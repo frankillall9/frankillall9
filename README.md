@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frankillall9
+![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667](https://github.com/user-attachments/assets/7dda3864-17bd-4e74-b47e-f7a7eab2e890)- 👋 Hi, I’m @frankillall9
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,8 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# 🛠️ Things that help me getting my code done
-<!---
+## 🛠️ Things that help me getting my code done
+<img src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667">
+
 frankillall9/frankillall9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
