@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-#🛠️ Things that help me getting my code done
+# 🛠️ Things that help me getting my code done
 <!---
 frankillall9/frankillall9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
